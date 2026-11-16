@@ -51,4 +51,6 @@ Without installing, use the wrappers from the repo root: `.\prep <command>` (cmd
 | [prepkit/importer.py](prepkit/importer.py) | LeetHub import and sync |
 | [prepkit/cli.py](prepkit/cli.py) | Argument parsing |
 
+**CI sync of a private LeetHub repo:** create a fine-grained token with *Contents: read-only* on `LEETCODE-PROBLEMS` and save it as the repository secret `LEETHUB_TOKEN`. Without it, the Action skips the sync and `prep import --sync` works locally.
+
 Set `PREP_TODAY=2026-12-01` to see the dashboard as it will look on another date.

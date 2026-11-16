@@ -33,8 +33,17 @@ jobs:
       - name: Install
         run: pip install -r requirements.txt
 
+      # LEETCODE-PROBLEMS is private: add a fine-grained token (Contents: read-only on that repo)
+      # as the repository secret LEETHUB_TOKEN to enable this step.
       - name: Pull new solutions from LeetHub
-        run: python scripts/prep.py import --remote || echo "::warning::LeetHub import failed; continuing"
+        env:
+          LEETHUB_TOKEN: ${{ secrets.LEETHUB_TOKEN }}
+        run: |
+          if [ -z "$LEETHUB_TOKEN" ]; then
+            echo "::notice::LEETHUB_TOKEN not set; skipping LeetHub sync (run 'prep import --sync' locally instead)"
+          else
+            python scripts/prep.py import --remote || echo "::warning::LeetHub import failed; continuing"
+          fi
 
       - name: Build dashboard, indexes, charts and plan
         run: python scripts/prep.py build

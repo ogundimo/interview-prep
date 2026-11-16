@@ -8,6 +8,7 @@ Problem statements are not copied (only a link).
 from __future__ import annotations
 
 import datetime as dt
+import os
 import re
 import subprocess
 from pathlib import Path
@@ -62,7 +63,11 @@ def locate(cfg: dict, sync: bool, remote: bool) -> Path:
         if (repo / ".git").exists():
             _git(repo, "pull", "-q", "--ff-only")
         else:
-            subprocess.run(["git", "-c", "core.longpaths=true", "clone", "-q", lh["url"], str(repo)], check=True)
+            url = lh["url"]
+            token = os.environ.get("LEETHUB_TOKEN")  # needed when the LeetHub repo is private
+            if token:
+                url = url.replace("https://", f"https://x-access-token:{token}@", 1)
+            subprocess.run(["git", "-c", "core.longpaths=true", "clone", "-q", url, str(repo)], check=True)
         return repo
     repo = (ROOT / lh["path"]).resolve()
     if not (repo / ".git").exists():
