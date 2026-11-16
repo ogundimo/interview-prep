@@ -34,6 +34,7 @@ A personal interview-prep workspace for a new-grad SWE candidate (any track: bac
 
 - Never commit or push without the owner's explicit instruction.
 - Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`...).
+- No AI attribution: no `Co-Authored-By` trailers, "Generated with ..." lines, or agent names in commits, PRs or files.
 - Commit email must be the GitHub noreply address (already set in this repo's local git config; GitHub rejects the private email).
 - The `Dashboard` Action commits rebuilt files to `main` on push and daily. Run `git pull --rebase` before starting work.
 - CI needs the repo secret `LEETHUB_TOKEN` (fine-grained, Contents read-only on `LEETCODE-PROBLEMS`) for the LeetHub sync; without it the step is skipped.
