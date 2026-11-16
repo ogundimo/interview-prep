@@ -1,0 +1,11 @@
+# timer state is per-machine
+data/.timer.json
+data/.leethub-cache/
+__pycache__/
+*.egg-info/
+.venv/
+build/
+# compiled solutions
+*.class
+*.exe
+*.out

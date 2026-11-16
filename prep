@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# Git Bash / WSL / macOS / Linux wrapper
+exec python "$(dirname "$0")/scripts/prep.py" "$@"

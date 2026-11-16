@@ -1,0 +1,1350 @@
+{
+ "generated": "2026-11-15",
+ "items": [
+  {
+   "id": "concept-caching",
+   "type": "concept",
+   "title": "Caching",
+   "path": "02-system-design/concepts/caching.md",
+   "difficulty": "",
+   "pattern": null,
+   "tags": [
+    "system-design",
+    "caching",
+    "redis",
+    "cdn",
+    "consistency"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-14",
+   "attempts": 2,
+   "best_minutes": 7.0
+  },
+  {
+   "id": "concept-os-processes-vs-threads",
+   "type": "concept",
+   "title": "Processes vs Threads",
+   "path": "05-cs-fundamentals/os/processes-vs-threads.md",
+   "difficulty": "",
+   "pattern": null,
+   "tags": [
+    "os",
+    "concurrency",
+    "processes",
+    "threads",
+    "context-switch"
+   ],
+   "status": "learning",
+   "next_review": "2026-11-14",
+   "attempts": 1,
+   "best_minutes": 8.0
+  },
+  {
+   "id": "lc-0001",
+   "type": "lc",
+   "title": "Two Sum",
+   "path": "01-dsa-leetcode/01-arrays-hashing/0001-two-sum.md",
+   "difficulty": "Easy",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-16",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0002",
+   "type": "lc",
+   "title": "Add Two Numbers",
+   "path": "01-dsa-leetcode/06-linked-list/0002-add-two-numbers.md",
+   "difficulty": "Medium",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list",
+    "math",
+    "recursion"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-15",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0003",
+   "type": "lc",
+   "title": "Longest Substring Without Repeating Characters",
+   "path": "01-dsa-leetcode/03-sliding-window/0003-longest-substring-without-repeating-characters.md",
+   "difficulty": "Medium",
+   "pattern": "sliding-window",
+   "tags": [
+    "sliding-window"
+   ],
+   "status": "mastered",
+   "next_review": "2027-01-06",
+   "attempts": 4,
+   "best_minutes": 12.0
+  },
+  {
+   "id": "lc-0009",
+   "type": "lc",
+   "title": "Palindrome Number",
+   "path": "01-dsa-leetcode/17-math-geometry/0009-palindrome-number.md",
+   "difficulty": "Easy",
+   "pattern": "math-geometry",
+   "tags": [
+    "math-geometry",
+    "math"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-22",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0011",
+   "type": "lc",
+   "title": "Container With Most Water",
+   "path": "01-dsa-leetcode/02-two-pointers/0011-container-with-most-water.md",
+   "difficulty": "Medium",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array",
+    "greedy"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-15",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0013",
+   "type": "lc",
+   "title": "Roman to Integer",
+   "path": "01-dsa-leetcode/17-math-geometry/0013-roman-to-integer.md",
+   "difficulty": "Easy",
+   "pattern": "math-geometry",
+   "tags": [
+    "math-geometry",
+    "hash-table",
+    "math",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-22",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0014",
+   "type": "lc",
+   "title": "Longest Common Prefix",
+   "path": "01-dsa-leetcode/08-tries/0014-longest-common-prefix.md",
+   "difficulty": "Easy",
+   "pattern": "tries",
+   "tags": [
+    "tries",
+    "array",
+    "string",
+    "trie"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-22",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0015",
+   "type": "lc",
+   "title": "3Sum",
+   "path": "01-dsa-leetcode/02-two-pointers/0015-3sum.md",
+   "difficulty": "Medium",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array",
+    "sorting"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-15",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0020",
+   "type": "lc",
+   "title": "Valid Parentheses",
+   "path": "01-dsa-leetcode/04-stack/0020-valid-parentheses.md",
+   "difficulty": "Easy",
+   "pattern": "stack",
+   "tags": [
+    "stack",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-16",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0026",
+   "type": "lc",
+   "title": "Remove Duplicates from Sorted Array",
+   "path": "01-dsa-leetcode/02-two-pointers/0026-remove-duplicates-from-sorted-array.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-23",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0027",
+   "type": "lc",
+   "title": "Remove Element",
+   "path": "01-dsa-leetcode/02-two-pointers/0027-remove-element.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-23",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0028",
+   "type": "lc",
+   "title": "Find the Index of the First Occurrence in a String",
+   "path": "01-dsa-leetcode/02-two-pointers/0028-find-the-index-of-the-first-occurrence-in-a-string.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "string",
+    "string-matching",
+    "z-algorithm"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-23",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0035",
+   "type": "lc",
+   "title": "Search Insert Position",
+   "path": "01-dsa-leetcode/05-binary-search/0035-search-insert-position.md",
+   "difficulty": "Easy",
+   "pattern": "binary-search",
+   "tags": [
+    "binary-search",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-24",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0042",
+   "type": "lc",
+   "title": "Trapping Rain Water",
+   "path": "01-dsa-leetcode/02-two-pointers/0042-trapping-rain-water.md",
+   "difficulty": "Hard",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-13",
+   "attempts": 2,
+   "best_minutes": 41.0
+  },
+  {
+   "id": "lc-0049",
+   "type": "lc",
+   "title": "Group Anagrams",
+   "path": "01-dsa-leetcode/01-arrays-hashing/0049-group-anagrams.md",
+   "difficulty": "Medium",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing"
+   ],
+   "status": "mastered",
+   "next_review": "2026-12-23",
+   "attempts": 3,
+   "best_minutes": 11.0
+  },
+  {
+   "id": "lc-0058",
+   "type": "lc",
+   "title": "Length of Last Word",
+   "path": "01-dsa-leetcode/01-arrays-hashing/0058-length-of-last-word.md",
+   "difficulty": "Easy",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-24",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0066",
+   "type": "lc",
+   "title": "Plus One",
+   "path": "01-dsa-leetcode/17-math-geometry/0066-plus-one.md",
+   "difficulty": "Easy",
+   "pattern": "math-geometry",
+   "tags": [
+    "math-geometry",
+    "array",
+    "math"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-16",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0067",
+   "type": "lc",
+   "title": "Add Binary",
+   "path": "01-dsa-leetcode/18-bit-manipulation/0067-add-binary.md",
+   "difficulty": "Easy",
+   "pattern": "bit-manipulation",
+   "tags": [
+    "bit-manipulation",
+    "math",
+    "string",
+    "simulation"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-24",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0069",
+   "type": "lc",
+   "title": "Sqrt(x)",
+   "path": "01-dsa-leetcode/05-binary-search/0069-sqrtx.md",
+   "difficulty": "Easy",
+   "pattern": "binary-search",
+   "tags": [
+    "binary-search",
+    "math",
+    "newton-s-method"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-25",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0070",
+   "type": "lc",
+   "title": "Climbing Stairs",
+   "path": "01-dsa-leetcode/13-1-d-dp/0070-climbing-stairs.md",
+   "difficulty": "Easy",
+   "pattern": "1-d-dp",
+   "tags": [
+    "1-d-dp",
+    "math",
+    "dynamic-programming",
+    "memoization"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-17",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0076",
+   "type": "lc",
+   "title": "Minimum Window Substring",
+   "path": "01-dsa-leetcode/03-sliding-window/0076-minimum-window-substring.md",
+   "difficulty": "Hard",
+   "pattern": "sliding-window",
+   "tags": [
+    "sliding-window"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-15",
+   "attempts": 2,
+   "best_minutes": 46.0
+  },
+  {
+   "id": "lc-0083",
+   "type": "lc",
+   "title": "Remove Duplicates from Sorted List",
+   "path": "01-dsa-leetcode/06-linked-list/0083-remove-duplicates-from-sorted-list.md",
+   "difficulty": "Easy",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-25",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0088",
+   "type": "lc",
+   "title": "Merge Sorted Array",
+   "path": "01-dsa-leetcode/02-two-pointers/0088-merge-sorted-array.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array",
+    "sorting"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-25",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0094",
+   "type": "lc",
+   "title": "Binary Tree Inorder Traversal",
+   "path": "01-dsa-leetcode/07-trees/0094-binary-tree-inorder-traversal.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "stack",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-26",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0100",
+   "type": "lc",
+   "title": "Same Tree",
+   "path": "01-dsa-leetcode/07-trees/0100-same-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "binary-tree",
+    "breadth-first-search"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-17",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0101",
+   "type": "lc",
+   "title": "Symmetric Tree",
+   "path": "01-dsa-leetcode/07-trees/0101-symmetric-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-26",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0102",
+   "type": "lc",
+   "title": "Binary Tree Level Order Traversal",
+   "path": "01-dsa-leetcode/07-trees/0102-binary-tree-level-order-traversal.md",
+   "difficulty": "Medium",
+   "pattern": "trees",
+   "tags": [
+    "trees"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-13",
+   "attempts": 2,
+   "best_minutes": 13.0
+  },
+  {
+   "id": "lc-0104",
+   "type": "lc",
+   "title": "Maximum Depth of Binary Tree",
+   "path": "01-dsa-leetcode/07-trees/0104-maximum-depth-of-binary-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "binary-tree",
+    "breadth-first-search"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-17",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0108",
+   "type": "lc",
+   "title": "Convert Sorted Array to Binary Search Tree",
+   "path": "01-dsa-leetcode/07-trees/0108-convert-sorted-array-to-binary-search-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "array",
+    "divide-and-conquer",
+    "tree",
+    "binary-search-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-26",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0110",
+   "type": "lc",
+   "title": "Balanced Binary Tree",
+   "path": "01-dsa-leetcode/07-trees/0110-balanced-binary-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-18",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0111",
+   "type": "lc",
+   "title": "Minimum Depth of Binary Tree",
+   "path": "01-dsa-leetcode/07-trees/0111-minimum-depth-of-binary-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-27",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0112",
+   "type": "lc",
+   "title": "Path Sum",
+   "path": "01-dsa-leetcode/07-trees/0112-path-sum.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "breadth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-27",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0118",
+   "type": "lc",
+   "title": "Pascal's Triangle",
+   "path": "01-dsa-leetcode/13-1-d-dp/0118-pascals-triangle.md",
+   "difficulty": "Easy",
+   "pattern": "1-d-dp",
+   "tags": [
+    "1-d-dp",
+    "array",
+    "dynamic-programming"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-27",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0119",
+   "type": "lc",
+   "title": "Pascal's Triangle II",
+   "path": "01-dsa-leetcode/13-1-d-dp/0119-pascals-triangle-ii.md",
+   "difficulty": "Easy",
+   "pattern": "1-d-dp",
+   "tags": [
+    "1-d-dp",
+    "array",
+    "dynamic-programming"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-28",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0121",
+   "type": "lc",
+   "title": "Best Time to Buy and Sell Stock",
+   "path": "01-dsa-leetcode/03-sliding-window/0121-best-time-to-buy-and-sell-stock.md",
+   "difficulty": "Easy",
+   "pattern": "sliding-window",
+   "tags": [
+    "sliding-window",
+    "array",
+    "dynamic-programming"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-18",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0125",
+   "type": "lc",
+   "title": "Valid Palindrome",
+   "path": "01-dsa-leetcode/02-two-pointers/0125-valid-palindrome.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-18",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0136",
+   "type": "lc",
+   "title": "Single Number",
+   "path": "01-dsa-leetcode/18-bit-manipulation/0136-single-number.md",
+   "difficulty": "Easy",
+   "pattern": "bit-manipulation",
+   "tags": [
+    "bit-manipulation",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-19",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0141",
+   "type": "lc",
+   "title": "Linked List Cycle",
+   "path": "01-dsa-leetcode/06-linked-list/0141-linked-list-cycle.md",
+   "difficulty": "Easy",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list",
+    "two-pointers",
+    "hash-table"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-19",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0144",
+   "type": "lc",
+   "title": "Binary Tree Preorder Traversal",
+   "path": "01-dsa-leetcode/07-trees/0144-binary-tree-preorder-traversal.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "stack",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-28",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0145",
+   "type": "lc",
+   "title": "Binary Tree Postorder Traversal",
+   "path": "01-dsa-leetcode/07-trees/0145-binary-tree-postorder-traversal.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "stack",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-28",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0146",
+   "type": "lc",
+   "title": "LRU Cache",
+   "path": "01-dsa-leetcode/06-linked-list/0146-lru-cache.md",
+   "difficulty": "Medium",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-14",
+   "attempts": 2,
+   "best_minutes": 22.8
+  },
+  {
+   "id": "lc-0160",
+   "type": "lc",
+   "title": "Intersection of Two Linked Lists",
+   "path": "01-dsa-leetcode/06-linked-list/0160-intersection-of-two-linked-lists.md",
+   "difficulty": "Easy",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list",
+    "hash-table",
+    "two-pointers"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-29",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0200",
+   "type": "lc",
+   "title": "Number of Islands",
+   "path": "01-dsa-leetcode/11-graphs/0200-number-of-islands.md",
+   "difficulty": "Medium",
+   "pattern": "graphs",
+   "tags": [
+    "graphs"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-13",
+   "attempts": 3,
+   "best_minutes": 22.0
+  },
+  {
+   "id": "lc-0206",
+   "type": "lc",
+   "title": "Reverse Linked List",
+   "path": "01-dsa-leetcode/06-linked-list/0206-reverse-linked-list.md",
+   "difficulty": "Easy",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list",
+    "recursion"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-19",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0231",
+   "type": "lc",
+   "title": "Power of Two",
+   "path": "01-dsa-leetcode/18-bit-manipulation/0231-power-of-two.md",
+   "difficulty": "Easy",
+   "pattern": "bit-manipulation",
+   "tags": [
+    "bit-manipulation",
+    "math",
+    "recursion"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-29",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0258",
+   "type": "lc",
+   "title": "Add Digits",
+   "path": "01-dsa-leetcode/17-math-geometry/0258-add-digits.md",
+   "difficulty": "Easy",
+   "pattern": "math-geometry",
+   "tags": [
+    "math-geometry",
+    "math",
+    "simulation",
+    "number-theory"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-29",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0283",
+   "type": "lc",
+   "title": "Move Zeroes",
+   "path": "01-dsa-leetcode/02-two-pointers/0283-move-zeroes.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-30",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0322",
+   "type": "lc",
+   "title": "Coin Change",
+   "path": "01-dsa-leetcode/13-1-d-dp/0322-coin-change.md",
+   "difficulty": "Medium",
+   "pattern": "1-d-dp",
+   "tags": [
+    "1-d-dp"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-09",
+   "attempts": 3,
+   "best_minutes": 28.0
+  },
+  {
+   "id": "lc-0326",
+   "type": "lc",
+   "title": "Power of Three",
+   "path": "01-dsa-leetcode/17-math-geometry/0326-power-of-three.md",
+   "difficulty": "Easy",
+   "pattern": "math-geometry",
+   "tags": [
+    "math-geometry",
+    "math",
+    "recursion"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-30",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0342",
+   "type": "lc",
+   "title": "Power of Four",
+   "path": "01-dsa-leetcode/18-bit-manipulation/0342-power-of-four.md",
+   "difficulty": "Easy",
+   "pattern": "bit-manipulation",
+   "tags": [
+    "bit-manipulation",
+    "math",
+    "recursion"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-30",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0345",
+   "type": "lc",
+   "title": "Reverse Vowels of a String",
+   "path": "01-dsa-leetcode/02-two-pointers/0345-reverse-vowels-of-a-string.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-01",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0347",
+   "type": "lc",
+   "title": "Top K Frequent Elements",
+   "path": "01-dsa-leetcode/01-arrays-hashing/0347-top-k-frequent-elements.md",
+   "difficulty": "Medium",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing"
+   ],
+   "status": "mastered",
+   "next_review": "2027-01-05",
+   "attempts": 3,
+   "best_minutes": 16.0
+  },
+  {
+   "id": "lc-0374",
+   "type": "lc",
+   "title": "Guess Number Higher or Lower",
+   "path": "01-dsa-leetcode/05-binary-search/0374-guess-number-higher-or-lower.md",
+   "difficulty": "Easy",
+   "pattern": "binary-search",
+   "tags": [
+    "binary-search",
+    "interactive"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-01",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0392",
+   "type": "lc",
+   "title": "Is Subsequence",
+   "path": "01-dsa-leetcode/02-two-pointers/0392-is-subsequence.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "string",
+    "dynamic-programming"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-01",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0450",
+   "type": "lc",
+   "title": "Delete Node in a BST",
+   "path": "01-dsa-leetcode/07-trees/0450-delete-node-in-a-bst.md",
+   "difficulty": "Medium",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-20",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0509",
+   "type": "lc",
+   "title": "Fibonacci Number",
+   "path": "01-dsa-leetcode/13-1-d-dp/0509-fibonacci-number.md",
+   "difficulty": "Easy",
+   "pattern": "1-d-dp",
+   "tags": [
+    "1-d-dp",
+    "math",
+    "dynamic-programming",
+    "recursion",
+    "memoization"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-02",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0643",
+   "type": "lc",
+   "title": "Maximum Average Subarray I",
+   "path": "01-dsa-leetcode/03-sliding-window/0643-maximum-average-subarray-i.md",
+   "difficulty": "Easy",
+   "pattern": "sliding-window",
+   "tags": [
+    "sliding-window",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-02",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0700",
+   "type": "lc",
+   "title": "Search in a Binary Search Tree",
+   "path": "01-dsa-leetcode/07-trees/0700-search-in-a-binary-search-tree.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "binary-search-tree",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-02",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0704",
+   "type": "lc",
+   "title": "Binary Search",
+   "path": "01-dsa-leetcode/05-binary-search/0704-binary-search.md",
+   "difficulty": "Easy",
+   "pattern": "binary-search",
+   "tags": [
+    "binary-search"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-09",
+   "attempts": 2,
+   "best_minutes": 6.0
+  },
+  {
+   "id": "lc-0735",
+   "type": "lc",
+   "title": "Asteroid Collision",
+   "path": "01-dsa-leetcode/04-stack/0735-asteroid-collision.md",
+   "difficulty": "Medium",
+   "pattern": "stack",
+   "tags": [
+    "stack",
+    "array",
+    "simulation"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-20",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0739",
+   "type": "lc",
+   "title": "Daily Temperatures",
+   "path": "01-dsa-leetcode/04-stack/0739-daily-temperatures.md",
+   "difficulty": "Medium",
+   "pattern": "stack",
+   "tags": [
+    "stack"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-08",
+   "attempts": 3,
+   "best_minutes": 21.0
+  },
+  {
+   "id": "lc-0872",
+   "type": "lc",
+   "title": "Leaf-Similar Trees",
+   "path": "01-dsa-leetcode/07-trees/0872-leaf-similar-trees.md",
+   "difficulty": "Easy",
+   "pattern": "trees",
+   "tags": [
+    "trees",
+    "tree",
+    "depth-first-search",
+    "binary-tree"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-03",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0933",
+   "type": "lc",
+   "title": "Number of Recent Calls",
+   "path": "01-dsa-leetcode/01-arrays-hashing/0933-number-of-recent-calls.md",
+   "difficulty": "Easy",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing",
+    "design",
+    "queue",
+    "data-stream"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-03",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-0961",
+   "type": "lc",
+   "title": "N-Repeated Element in Size 2N Array",
+   "path": "01-dsa-leetcode/01-arrays-hashing/0961-n-repeated-element-in-size-2n-array.md",
+   "difficulty": "Easy",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing",
+    "array",
+    "hash-table",
+    "pigeonhole-principle"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-03",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-1323",
+   "type": "lc",
+   "title": "Maximum 69 Number",
+   "path": "01-dsa-leetcode/15-greedy/1323-maximum-69-number.md",
+   "difficulty": "Easy",
+   "pattern": "greedy",
+   "tags": [
+    "greedy",
+    "math"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-04",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-1431",
+   "type": "lc",
+   "title": "Kids With the Greatest Number of Candies",
+   "path": "01-dsa-leetcode/01-arrays-hashing/1431-kids-with-the-greatest-number-of-candies.md",
+   "difficulty": "Easy",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing",
+    "array"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-04",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-1456",
+   "type": "lc",
+   "title": "Maximum Number of Vowels in a Substring of Given Length",
+   "path": "01-dsa-leetcode/03-sliding-window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.md",
+   "difficulty": "Medium",
+   "pattern": "sliding-window",
+   "tags": [
+    "sliding-window",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-20",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-1679",
+   "type": "lc",
+   "title": "Max Number of K-Sum Pairs",
+   "path": "01-dsa-leetcode/02-two-pointers/1679-max-number-of-k-sum-pairs.md",
+   "difficulty": "Medium",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "array",
+    "hash-table",
+    "sorting"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-21",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-1732",
+   "type": "lc",
+   "title": "Find the Highest Altitude",
+   "path": "01-dsa-leetcode/01-arrays-hashing/1732-find-the-highest-altitude.md",
+   "difficulty": "Easy",
+   "pattern": "arrays-hashing",
+   "tags": [
+    "arrays-hashing",
+    "array",
+    "prefix-sum"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-04",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-1768",
+   "type": "lc",
+   "title": "Merge Strings Alternately",
+   "path": "01-dsa-leetcode/02-two-pointers/1768-merge-strings-alternately.md",
+   "difficulty": "Easy",
+   "pattern": "two-pointers",
+   "tags": [
+    "two-pointers",
+    "string"
+   ],
+   "status": "legacy",
+   "next_review": "2026-12-05",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-2095",
+   "type": "lc",
+   "title": "Delete the Middle Node of a Linked List",
+   "path": "01-dsa-leetcode/06-linked-list/2095-delete-the-middle-node-of-a-linked-list.md",
+   "difficulty": "Medium",
+   "pattern": "linked-list",
+   "tags": [
+    "linked-list",
+    "two-pointers"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-21",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "lc-2390",
+   "type": "lc",
+   "title": "Removing Stars From a String",
+   "path": "01-dsa-leetcode/04-stack/2390-removing-stars-from-a-string.md",
+   "difficulty": "Medium",
+   "pattern": "stack",
+   "tags": [
+    "stack",
+    "string",
+    "simulation"
+   ],
+   "status": "legacy",
+   "next_review": "2026-11-21",
+   "attempts": 1,
+   "best_minutes": null
+  },
+  {
+   "id": "mock-2026-11-07-pramp-coding",
+   "type": "mock",
+   "title": "Pramp coding mock",
+   "path": "06-mock-interviews/2026-11-07-pramp-coding.md",
+   "difficulty": "",
+   "pattern": null,
+   "tags": [
+    "mock",
+    "coding",
+    "graphs",
+    "communication"
+   ],
+   "status": "new",
+   "next_review": null,
+   "attempts": 0,
+   "best_minutes": null
+  },
+  {
+   "id": "oa-2026-11-15-codesignal-gca",
+   "type": "oa",
+   "title": "CodeSignal GCA (practice)",
+   "path": "03-online-assessments/codesignal/2026-11-15-codesignal-gca.md",
+   "difficulty": "",
+   "pattern": null,
+   "tags": [
+    "oa",
+    "codesignal",
+    "gca",
+    "arrays",
+    "simulation",
+    "hashing"
+   ],
+   "status": "logged",
+   "next_review": null,
+   "attempts": 1,
+   "best_minutes": 68.0
+  },
+  {
+   "id": "sd-url-shortener",
+   "type": "sd",
+   "title": "URL Shortener",
+   "path": "02-system-design/questions/url-shortener/design.md",
+   "difficulty": "Medium",
+   "pattern": null,
+   "tags": [
+    "system-design",
+    "hashing",
+    "caching",
+    "key-value-store",
+    "read-heavy"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-15",
+   "attempts": 2,
+   "best_minutes": 44.0
+  },
+  {
+   "id": "star-race-condition-team-project",
+   "type": "star",
+   "title": "Tracking down a race condition before a team demo",
+   "path": "04-behavioral/stories/race-condition-team-project.md",
+   "difficulty": "",
+   "pattern": null,
+   "tags": [
+    "behavioral",
+    "debugging",
+    "concurrency"
+   ],
+   "status": "reviewing",
+   "next_review": "2026-11-17",
+   "attempts": 2,
+   "best_minutes": 2.8
+  }
+ ],
+ "weakness": {
+  "arrays-hashing": 0.11,
+  "two-pointers": 0.254,
+  "sliding-window": 0.282,
+  "stack": 0.319,
+  "binary-search": 0.148,
+  "linked-list": 0.295,
+  "trees": 0.097,
+  "tries": 0.2,
+  "heap-priority-queue": 0.2,
+  "backtracking": 0.2,
+  "graphs": 0.538,
+  "advanced-graphs": 0.2,
+  "1-d-dp": 0.46,
+  "2-d-dp": 0.2,
+  "greedy": 0.2,
+  "intervals": 0.2,
+  "math-geometry": 0.188,
+  "bit-manipulation": 0.186
+ }
+}

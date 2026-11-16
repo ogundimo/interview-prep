@@ -1,0 +1,74 @@
+name: Dashboard
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 11 * * *" # daily, 05:00 Winnipeg (CST), so "Due today" is fresh every morning
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: dashboard
+  cancel-in-progress: false
+
+env:
+  TZ: America/Winnipeg # dates are computed in local time, not UTC
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Pull new solutions from LeetHub
+        run: python scripts/prep.py import --remote || echo "::warning::LeetHub import failed; continuing"
+
+      - name: Build dashboard, indexes, charts and plan
+        run: python scripts/prep.py build
+
+      - name: Check links
+        run: python scripts/prep.py check
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- . ':!data/.leethub-cache'
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore(dashboard): rebuild $(date +%F)"
+            git push
+          fi
+
+      - name: Update the "Reviews due" issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/prep.py issue --write issue.md --count-file due-count.txt
+          count=$(cat due-count.txt)
+          gh label create reviews-due --color eb6834 --description "Spaced-repetition reminders" 2>/dev/null || true
+          number=$(gh issue list --label reviews-due --state open --json number --jq '.[0].number')
+          title="Reviews due $(date +%F): $count"
+          if [ "$count" -gt 0 ]; then
+            if [ -n "$number" ]; then
+              gh issue edit "$number" --title "$title" --body-file issue.md
+            else
+              gh issue create --title "$title" --body-file issue.md --label reviews-due
+            fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "Nothing due today."
+          fi

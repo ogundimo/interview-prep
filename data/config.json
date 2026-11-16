@@ -1,0 +1,26 @@
+{
+  "github": "ogundimo/interview-prep",
+  "default_lang": "python",
+  "langs": {"python": ".py", "java": ".java", "cpp": ".cpp"},
+  "targets": {"Easy": 15, "Medium": 25, "Hard": 40},
+  "type_targets": {"sd": 45, "concept": 10, "star": 3},
+  "sd_phases": [
+    ["requirements", 5],
+    ["estimates", 5],
+    ["api-data-model", 10],
+    ["high-level-design", 15],
+    ["deep-dive", 10]
+  ],
+  "intervals": [1, 3, 7, 14, 30, 60],
+  "mastery_streak": 2,
+  "new_ratio": 0.7,
+  "hours_per_week": {
+    "dsa": 22, "oa": 4, "design": 6, "fundamentals": 6, "behavioral": 3, "mocks": 3, "buffer": 4
+  },
+  "problem_list": "neetcode150",
+  "legacy": {"cutoff": "2026-11-15", "start": "2026-11-15", "per_day": 3},
+  "leethub": {
+    "path": "../LEETCODE-PROBLEMS",
+    "url": "https://github.com/ogundimo/LEETCODE-PROBLEMS.git"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Spoiler block": {
+    "scope": "markdown",
+    "prefix": "spoiler",
+    "body": ["<details>", "<summary>${1:Solution} (spoiler)</summary>", "", "$0", "", "</details>"]
+  },
+  "Flashcard": {
+    "scope": "markdown",
+    "prefix": "card",
+    "body": ["<details><summary>Q: ${1:question}?</summary>", "", "A: $0", "", "</details>"]
+  },
+  "Complexity table": {
+    "scope": "markdown",
+    "prefix": "complexity",
+    "body": ["| | Complexity |", "|---|---|", "| Time | `O(${1:n})` |", "| Space | `O(${2:1})` |"]
+  },
+  "Trade-off row": {
+    "scope": "markdown",
+    "prefix": "tradeoff",
+    "body": ["| ${1:Decision} | ${2:Chosen} | ${3:Alternative} | ${4:Why} |"]
+  }
+}

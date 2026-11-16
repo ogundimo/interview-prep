@@ -1,0 +1,11 @@
+{
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": { "files.trimTrailingWhitespace": false },
+  "files.exclude": { "**/__pycache__": true, "**/*.egg-info": true },
+  "search.exclude": { "data/items.json": true, "data/lc-cache.json": true, "assets/charts": true },
+  "markdown.preview.breaks": false,
+  "python.analysis.extraPaths": ["scripts"],
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}

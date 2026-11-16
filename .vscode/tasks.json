@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "prep: due", "type": "shell", "command": "python scripts/prep.py due", "problemMatcher": [] },
+    { "label": "prep: next", "type": "shell", "command": "python scripts/prep.py next", "problemMatcher": [] },
+    { "label": "prep: status", "type": "shell", "command": "python scripts/prep.py status", "problemMatcher": [] },
+    { "label": "prep: build", "type": "shell", "command": "python scripts/prep.py build", "problemMatcher": [] },
+    { "label": "prep: check links", "type": "shell", "command": "python scripts/prep.py check", "problemMatcher": [] }
+  ]
+}

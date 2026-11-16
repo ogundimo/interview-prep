@@ -1,0 +1,99 @@
+id,date,minutes,outcome,grade,lang,source,phases,note
+lc-0001,2025-12-12,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0002,2026-01-01,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0009,2025-12-12,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0011,2025-12-12,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0013,2025-12-12,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0014,2025-12-17,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0015,2025-12-13,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0020,2025-12-14,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0026,2025-12-13,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0027,2025-12-14,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0028,2025-12-14,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0035,2025-12-18,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0058,2025-12-14,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0066,2025-12-18,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0067,2025-12-18,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0069,2025-12-19,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0070,2025-12-21,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0083,2025-12-21,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0088,2025-12-22,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0094,2025-12-23,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0100,2025-12-30,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0101,2026-01-01,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0104,2026-01-01,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0108,2026-01-04,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0110,2026-01-04,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0111,2026-01-07,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0112,2026-01-06,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0118,2026-01-07,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0119,2026-01-07,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0121,2026-01-07,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0125,2026-01-01,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0136,2026-01-08,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0141,2026-01-09,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0144,2026-01-01,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0145,2026-01-01,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0160,2026-01-09,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0206,2026-01-17,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0231,2026-01-02,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0258,2026-01-03,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0283,2026-01-15,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0326,2026-01-02,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0342,2026-01-02,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0345,2026-01-12,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0374,2026-01-12,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0392,2026-01-23,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0450,2026-01-16,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0643,2026-01-21,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0735,2026-02-05,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0700,2026-01-11,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-0872,2026-02-10,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0933,2026-02-09,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0961,2026-01-02,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-0509,2026-01-04,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-1323,2026-01-02,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-1431,2026-01-24,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-1456,2026-01-31,,solved,,python,legacy,,imported from LeetHub (untimed)
+lc-1679,2026-01-26,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-1732,2026-01-19,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-1768,2026-01-10,,solved,,cpp,legacy,,imported from LeetHub (untimed)
+lc-2095,2026-01-26,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-2390,2026-01-24,,solved,,java,legacy,,imported from LeetHub (untimed)
+lc-0146,2026-11-10,34.2,hints,good,python,timer,,first try: forgot to delete the evicted key from the map
+lc-0146,2026-11-11,22.8,solved,good,java,timer,,
+lc-0049,2026-10-20,21.0,solved,good,python,timer,,
+lc-0049,2026-10-21,14.5,solved,good,python,timer,,
+lc-0049,2026-10-24,11.0,solved,easy,python,timer,,
+lc-0347,2026-10-22,26.4,solved,good,python,timer,,"used a heap first, then bucket sort"
+lc-0347,2026-10-23,19.0,solved,good,python,timer,,
+lc-0003,2026-10-27,31.0,hints,hard,python,timer,,"shrank one step at a time, then saw the jump"
+lc-0003,2026-10-28,24.0,solved,good,python,timer,,
+lc-0003,2026-10-31,17.5,solved,good,python,timer,,
+lc-0003,2026-11-07,12.0,solved,good,python,timer,,
+lc-0704,2026-11-01,9.0,solved,good,python,timer,,
+lc-0704,2026-11-02,6.0,solved,easy,python,timer,,
+lc-0739,2026-11-03,33.0,hints,hard,python,timer,,first idea was O(n^2)
+lc-0739,2026-11-04,29.5,solved,hard,python,timer,,
+lc-0739,2026-11-05,21.0,solved,good,python,timer,,
+lc-0200,2026-10-29,22.0,solved,good,python,timer,,
+lc-0200,2026-10-30,31.5,solved,hard,python,timer,,recursion depth error on a big grid; rewrote iteratively
+lc-0200,2026-11-12,28.0,hints,hard,python,timer,,"forgot to mark cells when pushing, duplicates"
+lc-0322,2026-11-06,40.0,failed,again,python,timer,,"tried greedy; fails on [1,3,4], 6"
+lc-0322,2026-11-07,33.0,hints,hard,python,timer,,
+lc-0322,2026-11-08,28.0,solved,hard,python,timer,,
+lc-0102,2026-11-09,18.0,solved,good,python,timer,,
+lc-0102,2026-11-10,13.0,solved,good,python,timer,,
+lc-0042,2026-11-11,52.0,hints,hard,python,timer,,prefix/suffix max arrays first
+lc-0042,2026-11-12,41.0,solved,hard,python,timer,,
+lc-0076,2026-11-13,55.0,failed,again,python,timer,,lost track of the 'missing' counter
+lc-0076,2026-11-14,46.0,hints,hard,python,timer,,
+sd-url-shortener,2026-11-08,52.0,hints,hard,,manual,requirements=6;estimates=7;api-data-model=11;high-level-design=18;deep-dive=10,first timed design; ran long on HLD
+sd-url-shortener,2026-11-12,44.0,solved,good,,manual,requirements=5;estimates=5;api-data-model=9;high-level-design=16;deep-dive=9,redrawn from memory
+concept-caching,2026-11-10,9.0,solved,good,,manual,,
+concept-caching,2026-11-11,7.0,solved,good,,manual,,
+concept-os-processes-vs-threads,2026-11-13,8.0,solved,good,,manual,,
+oa-2026-11-15-codesignal-gca,2026-11-15,68.0,hints,hard,,manual,,"520/600, Q4 TLE"
+star-race-condition-team-project,2026-11-12,3.4,solved,hard,,manual,,
+star-race-condition-team-project,2026-11-14,2.8,solved,good,,manual,,
+lc-0347,2026-11-06,16.0,solved,good,python,timer,,

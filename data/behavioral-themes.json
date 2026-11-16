@@ -1,0 +1,13 @@
+[
+  {"slug": "ownership", "name": "Ownership / initiative", "questions": ["Tell me about a time you took ownership of something outside your role.", "Describe a project you drove from start to finish."]},
+  {"slug": "conflict", "name": "Conflict / disagreement", "questions": ["Tell me about a disagreement with a teammate.", "Describe a time you pushed back on a decision."]},
+  {"slug": "failure", "name": "Failure / mistake", "questions": ["Tell me about a time you failed.", "Describe a mistake you made and how you fixed it."]},
+  {"slug": "challenge", "name": "Technical challenge", "questions": ["What is the hardest bug or problem you have solved?", "Walk me through a technically complex project."]},
+  {"slug": "teamwork", "name": "Teamwork / collaboration", "questions": ["Tell me about a successful team project.", "How did you help a struggling teammate?"]},
+  {"slug": "deadline", "name": "Deadline / prioritization", "questions": ["Tell me about a time you had too much to do.", "How did you deliver under a tight deadline?"]},
+  {"slug": "learning", "name": "Learning fast", "questions": ["Tell me about a time you learned a new technology quickly.", "How do you get up to speed in an unfamiliar codebase?"]},
+  {"slug": "leadership", "name": "Leadership / influence", "questions": ["Tell me about a time you led without authority.", "How did you convince others to adopt your idea?"]},
+  {"slug": "feedback", "name": "Receiving feedback", "questions": ["Tell me about critical feedback you received.", "How did you act on feedback that surprised you?"]},
+  {"slug": "customer", "name": "User / customer focus", "questions": ["Tell me about a time you went beyond requirements for a user.", "Describe a decision you made with the end user in mind."]},
+  {"slug": "why", "name": "Why this company / role", "questions": ["Why do you want to work here?", "Why this team / role?"]}
+]
