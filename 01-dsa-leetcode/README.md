@@ -19,17 +19,17 @@ Solutions sorted by **pattern**, in [NeetCode roadmap](https://neetcode.io/roadm
 <!-- prep:index:start -->
 | # | Pattern | Entries | NeetCode 150 | Median time | Within target | Weakness |
 |---:|---|---:|---|---:|---:|---:|
-| 01 | [Arrays & Hashing](01-arrays-hashing/README.md) | 8 | `###.......` 3/9 | 18m | 83% | 0.11 |
+| 01 | [Arrays & Hashing](01-arrays-hashing/README.md) | 8 | `###.......` 3/9 | 18m | 83% | 0.12 |
 | 02 | [Two Pointers](02-two-pointers/README.md) | 13 | `########..` 4/5 | 46m | 0% | 0.26 |
 | 03 | [Sliding Window](03-sliding-window/README.md) | 4 | `###.......` 2/6 | 28m | 50% | 0.29 |
-| 04 | [Stack](04-stack/README.md) | 4 | `###.......` 2/7 | 30m | 33% | 0.32 |
-| 05 | [Binary Search](05-binary-search/README.md) | 4 | `#.........` 1/7 | 7.5m | 100% | 0.15 |
+| 04 | [Stack](04-stack/README.md) | 4 | `###.......` 2/7 | 30m | 33% | 0.33 |
+| 05 | [Binary Search](05-binary-search/README.md) | 4 | `#.........` 1/7 | 7.5m | 100% | 0.16 |
 | 06 | [Linked List](06-linked-list/README.md) | 7 | `####......` 4/11 | 28m | 50% | 0.30 |
-| 07 | [Trees](07-trees/README.md) | 14 | `###.......` 4/15 | 16m | 100% | 0.10 |
+| 07 | [Trees](07-trees/README.md) | 14 | `###.......` 4/15 | 16m | 100% | 0.11 |
 | 08 | [Tries](08-tries/README.md) | 1 | `..........` 0/3 | - | - | 0.20 |
 | 09 | [Heap / Priority Queue](09-heap-priority-queue/README.md) | 0 | `..........` 0/7 | - | - | 0.20 |
 | 10 | [Backtracking](10-backtracking/README.md) | 0 | `..........` 0/9 | - | - | 0.20 |
-| 11 | [Graphs](11-graphs/README.md) | 1 | `#.........` 1/13 | 28m | 33% | 0.54 |
+| 11 | [Graphs](11-graphs/README.md) | 1 | `#.........` 1/13 | 28m | 33% | 0.55 |
 | 12 | [Advanced Graphs](12-advanced-graphs/README.md) | 0 | `..........` 0/6 | - | - | 0.20 |
 | 13 | [1-D Dynamic Programming](13-1-d-dp/README.md) | 5 | `##........` 2/12 | 33m | 0% | 0.47 |
 | 14 | [2-D Dynamic Programming](14-2-d-dp/README.md) | 0 | `..........` 0/11 | - | - | 0.20 |
