@@ -3,11 +3,11 @@
 My technical interview preparation in one place: LeetCode by pattern, system design, online assessments, behavioral stories, CS fundamentals and mock interviews. Every attempt is **timed** and scheduled for **spaced-repetition review**, and this dashboard is regenerated from the data on every push and once a day.
 
 <!-- prep:dashboard:start -->
-![solved](https://img.shields.io/badge/solved-71-2a78d6?style=flat-square) ![NeetCode 150](https://img.shields.io/badge/NeetCode_150-25%2F150-6250d6?style=flat-square) ![due today](https://img.shields.io/badge/due_today-21-eb6834?style=flat-square) ![within target](https://img.shields.io/badge/within_target-52%25-1baf7a?style=flat-square) ![updated](https://img.shields.io/badge/updated-2026--11--17-52514e?style=flat-square)
+![solved](https://img.shields.io/badge/solved-71-2a78d6?style=flat-square) ![NeetCode 150](https://img.shields.io/badge/NeetCode_150-25%2F150-6250d6?style=flat-square) ![due today](https://img.shields.io/badge/due_today-24-eb6834?style=flat-square) ![within target](https://img.shields.io/badge/within_target-52%25-1baf7a?style=flat-square) ![updated](https://img.shields.io/badge/updated-2026--11--18-52514e?style=flat-square)
 
 | Solved | Easy / Med / Hard | NeetCode 150 | Due today | Overdue | Avg time vs target | Next mock | Next interview |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **71** | 53 / 17 / 1 | `##........` 25 | **4** | 17 | 0.96x target (29 timed) | 2026-11-21: Pramp coding mock | none yet |
+| **71** | 53 / 17 / 1 | `##........` 25 | **3** | 21 | 0.96x target (29 timed) | 2026-11-21: Pramp coding mock | none yet |
 
 ### Focus next
 
@@ -17,28 +17,27 @@ My technical interview preparation in one place: LeetCode by pattern, system des
 
 **Slowest patterns (median time / target):** 1-D Dynamic Programming 1.32x · Stack 1.18x · Two Pointers 1.16x
 
-### Due today (4)
+### Due today (3)
 
 | Item | Type | Due | Last result |
 |---|---|---|---|
-| [70. Climbing Stairs](01-dsa-leetcode/13-1-d-dp/0070-climbing-stairs.md) | lc | today | solved, - |
-| [100. Same Tree](01-dsa-leetcode/07-trees/0100-same-tree.md) | lc | today | solved, - |
-| [104. Maximum Depth of Binary Tree](01-dsa-leetcode/07-trees/0104-maximum-depth-of-binary-tree.md) | lc | today | solved, - |
-| [Tracking down a race condition before a team demo](04-behavioral/stories/race-condition-team-project.md) | star | today | solved, 2.8m |
+| [110. Balanced Binary Tree](01-dsa-leetcode/07-trees/0110-balanced-binary-tree.md) | lc | today | solved, - |
+| [121. Best Time to Buy and Sell Stock](01-dsa-leetcode/03-sliding-window/0121-best-time-to-buy-and-sell-stock.md) | lc | today | solved, - |
+| [125. Valid Palindrome](01-dsa-leetcode/02-two-pointers/0125-valid-palindrome.md) | lc | today | solved, - |
 
-### Overdue (17)
+### Overdue (21)
 
 | Item | Type | Due | Last result |
 |---|---|---|---|
-| [739. Daily Temperatures](01-dsa-leetcode/04-stack/0739-daily-temperatures.md) | lc | 9d late | solved, 21m |
-| [704. Binary Search](01-dsa-leetcode/05-binary-search/0704-binary-search.md) | lc | 8d late | solved, 6.0m |
-| [322. Coin Change](01-dsa-leetcode/13-1-d-dp/0322-coin-change.md) | lc | 8d late | solved, 28m |
-| [42. Trapping Rain Water](01-dsa-leetcode/02-two-pointers/0042-trapping-rain-water.md) | lc | 4d late | solved, 41m |
-| [102. Binary Tree Level Order Traversal](01-dsa-leetcode/07-trees/0102-binary-tree-level-order-traversal.md) | lc | 4d late | solved, 13m |
-| [200. Number of Islands](01-dsa-leetcode/11-graphs/0200-number-of-islands.md) | lc | 4d late | needed hints, 28m |
-| [146. LRU Cache](01-dsa-leetcode/06-linked-list/0146-lru-cache.md) | lc | 3d late | solved, 23m |
-| [Caching](02-system-design/concepts/caching.md) | concept | 3d late | solved, 7.0m |
-| _+9 more:_ `prep due` | | | |
+| [739. Daily Temperatures](01-dsa-leetcode/04-stack/0739-daily-temperatures.md) | lc | 10d late | solved, 21m |
+| [704. Binary Search](01-dsa-leetcode/05-binary-search/0704-binary-search.md) | lc | 9d late | solved, 6.0m |
+| [322. Coin Change](01-dsa-leetcode/13-1-d-dp/0322-coin-change.md) | lc | 9d late | solved, 28m |
+| [42. Trapping Rain Water](01-dsa-leetcode/02-two-pointers/0042-trapping-rain-water.md) | lc | 5d late | solved, 41m |
+| [102. Binary Tree Level Order Traversal](01-dsa-leetcode/07-trees/0102-binary-tree-level-order-traversal.md) | lc | 5d late | solved, 13m |
+| [200. Number of Islands](01-dsa-leetcode/11-graphs/0200-number-of-islands.md) | lc | 5d late | needed hints, 28m |
+| [146. LRU Cache](01-dsa-leetcode/06-linked-list/0146-lru-cache.md) | lc | 4d late | solved, 23m |
+| [Caching](02-system-design/concepts/caching.md) | concept | 4d late | solved, 7.0m |
+| _+13 more:_ `prep due` | | | |
 
 ### Speed
 
@@ -65,11 +64,11 @@ My technical interview preparation in one place: LeetCode by pattern, system des
 | Pattern | Solved | NeetCode 150 | Avg | Median | Within target | First / review | Weakness |
 |---|---:|---|---:|---:|---:|---|---:|
 | [Arrays & Hashing](01-dsa-leetcode/01-arrays-hashing/README.md) | 8 | `###.......` 3/9 | 18m | 18m | 83% | 24m / 15m | 0.12 |
-| [Two Pointers](01-dsa-leetcode/02-two-pointers/README.md) | 13 | `########..` 4/5 | 46m | 46m | 0% | 52m / 41m | 0.26 |
-| [Sliding Window](01-dsa-leetcode/03-sliding-window/README.md) | 4 | `###.......` 2/6 | 31m | 28m | 50% | 43m / 25m | 0.29 |
+| [Two Pointers](01-dsa-leetcode/02-two-pointers/README.md) | 13 | `########..` 4/5 | 46m | 46m | 0% | 52m / 41m | 0.27 |
+| [Sliding Window](01-dsa-leetcode/03-sliding-window/README.md) | 4 | `###.......` 2/6 | 31m | 28m | 50% | 43m / 25m | 0.30 |
 | [Stack](01-dsa-leetcode/04-stack/README.md) | 4 | `###.......` 2/7 | 28m | 30m | 33% | 33m / 25m | 0.33 |
 | [Binary Search](01-dsa-leetcode/05-binary-search/README.md) | 4 | `#.........` 1/7 | 7.5m | 7.5m | 100% | 9.0m / 6.0m | 0.16 |
-| [Linked List](01-dsa-leetcode/06-linked-list/README.md) | 7 | `####......` 4/11 | 28m | 28m | 50% | 34m / 23m | 0.30 |
+| [Linked List](01-dsa-leetcode/06-linked-list/README.md) | 7 | `####......` 4/11 | 28m | 28m | 50% | 34m / 23m | 0.31 |
 | [Trees](01-dsa-leetcode/07-trees/README.md) | 14 | `###.......` 4/15 | 16m | 16m | 100% | 18m / 13m | 0.11 |
 | [Tries](01-dsa-leetcode/08-tries/README.md) | 1 | `..........` 0/3 | - | - | - | - | 0.20 |
 | [Heap / Priority Queue](01-dsa-leetcode/09-heap-priority-queue/README.md) | 0 | `..........` 0/7 | - | - | - | - | 0.20 |

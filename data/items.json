@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "items": [
   {
    "id": "concept-caching",
@@ -1328,19 +1328,19 @@
   }
  ],
  "weakness": {
-  "arrays-hashing": 0.119,
-  "two-pointers": 0.263,
-  "sliding-window": 0.292,
-  "stack": 0.329,
-  "binary-search": 0.157,
-  "linked-list": 0.305,
-  "trees": 0.107,
+  "arrays-hashing": 0.124,
+  "two-pointers": 0.268,
+  "sliding-window": 0.297,
+  "stack": 0.333,
+  "binary-search": 0.162,
+  "linked-list": 0.309,
+  "trees": 0.111,
   "tries": 0.2,
   "heap-priority-queue": 0.2,
   "backtracking": 0.2,
-  "graphs": 0.547,
+  "graphs": 0.552,
   "advanced-graphs": 0.2,
-  "1-d-dp": 0.47,
+  "1-d-dp": 0.475,
   "2-d-dp": 0.2,
   "greedy": 0.2,
   "intervals": 0.2,

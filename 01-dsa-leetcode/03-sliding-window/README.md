@@ -4,7 +4,7 @@
 
 > Contiguous subarray/substring with a constraint; grow right, shrink left. Signals: *longest/shortest substring, at most k*.
 
-**NeetCode 150:** 3/6 · **Entries here:** 5 · **Weakness score:** 0.29 (33% fail/hint rate, median 1.1x target)
+**NeetCode 150:** 3/6 · **Entries here:** 5 · **Weakness score:** 0.30 (33% fail/hint rate, median 1.1x target)
 
 ## Problems
 

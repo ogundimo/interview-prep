@@ -4,7 +4,7 @@
 
 > XOR cancels, masks, shifts. Signals: *single number, count bits, without + operator*.
 
-**NeetCode 150:** 1/7 · **Entries here:** 4 · **Weakness score:** 0.19 (untouched 313d)
+**NeetCode 150:** 1/7 · **Entries here:** 4 · **Weakness score:** 0.19 (untouched 314d)
 
 ## Problems
 
