@@ -4,7 +4,7 @@
 
 > Prefix lookups over many words. Signals: *prefix, autocomplete, word search on board*.
 
-**NeetCode 150:** 0/3 · **Entries here:** 1 · **Weakness score:** 0.20 (untouched 337d)
+**NeetCode 150:** 0/3 · **Entries here:** 1 · **Weakness score:** 0.20 (untouched 338d)
 
 ## Problems
 
