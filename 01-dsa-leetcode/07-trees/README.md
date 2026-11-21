@@ -4,7 +4,7 @@
 
 > Recursive DFS returning info upward, or BFS by level. Signals: *depth, path, ancestor, level order, BST*.
 
-**NeetCode 150:** 4/15 · **Entries here:** 14 · **Weakness score:** 0.12
+**NeetCode 150:** 4/15 · **Entries here:** 14 · **Weakness score:** 0.13
 
 ## Problems
 

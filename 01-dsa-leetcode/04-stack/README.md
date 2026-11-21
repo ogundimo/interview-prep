@@ -4,7 +4,7 @@
 
 > Nested or 'next greater' structure; monotonic stack for spans. Signals: *parentheses, next warmer, histogram*.
 
-**NeetCode 150:** 2/7 · **Entries here:** 4 · **Weakness score:** 0.34 (median 1.2x target)
+**NeetCode 150:** 2/7 · **Entries here:** 4 · **Weakness score:** 0.35 (median 1.2x target)
 
 ## Problems
 
