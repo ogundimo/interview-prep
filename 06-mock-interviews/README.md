@@ -11,9 +11,7 @@ One file per mock: what was asked, scores, feedback **verbatim**, and checkbox a
 <!-- prep:index:start -->
 ### Upcoming
 
-| Date | What | Type | Notes |
-|---|---|---|---|
-| 2026-11-21 | Pramp coding mock | mock | graphs focus |
+_Nothing scheduled. Add with_ `prep interview add <date> "<what>" --type mock`.
 
 ### Log
 

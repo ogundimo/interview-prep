@@ -20,11 +20,11 @@ Solutions sorted by **pattern**, in [NeetCode roadmap](https://neetcode.io/roadm
 | # | Pattern | Entries | NeetCode 150 | Median time | Within target | Weakness |
 |---:|---|---:|---|---:|---:|---:|
 | 01 | [Arrays & Hashing](01-arrays-hashing/README.md) | 8 | `###.......` 3/9 | 18m | 83% | 0.14 |
-| 02 | [Two Pointers](02-two-pointers/README.md) | 13 | `########..` 4/5 | 46m | 0% | 0.28 |
-| 03 | [Sliding Window](03-sliding-window/README.md) | 4 | `###.......` 2/6 | 28m | 50% | 0.31 |
+| 02 | [Two Pointers](02-two-pointers/README.md) | 13 | `########..` 4/5 | 46m | 0% | 0.29 |
+| 03 | [Sliding Window](03-sliding-window/README.md) | 4 | `###.......` 2/6 | 28m | 50% | 0.32 |
 | 04 | [Stack](04-stack/README.md) | 4 | `###.......` 2/7 | 30m | 33% | 0.35 |
 | 05 | [Binary Search](05-binary-search/README.md) | 4 | `#.........` 1/7 | 7.5m | 100% | 0.18 |
-| 06 | [Linked List](06-linked-list/README.md) | 7 | `####......` 4/11 | 28m | 50% | 0.32 |
+| 06 | [Linked List](06-linked-list/README.md) | 7 | `####......` 4/11 | 28m | 50% | 0.33 |
 | 07 | [Trees](07-trees/README.md) | 14 | `###.......` 4/15 | 16m | 100% | 0.13 |
 | 08 | [Tries](08-tries/README.md) | 1 | `..........` 0/3 | - | - | 0.20 |
 | 09 | [Heap / Priority Queue](09-heap-priority-queue/README.md) | 0 | `..........` 0/7 | - | - | 0.20 |
