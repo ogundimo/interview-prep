@@ -4,7 +4,7 @@
 
 > A locally best choice is provably safe. Signals: *max subarray, jump, intervals sorted by end*.
 
-**NeetCode 150:** 0/8 · **Entries here:** 1 · **Weakness score:** 0.20 (untouched 325d)
+**NeetCode 150:** 0/8 · **Entries here:** 1 · **Weakness score:** 0.20 (untouched 326d)
 
 ## Problems
 
