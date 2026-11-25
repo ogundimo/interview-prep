@@ -4,7 +4,7 @@
 
 > BFS/DFS over grids or adjacency lists, topological sort, union-find. Signals: *islands, prerequisites, connected*.
 
-**NeetCode 150:** 1/13 · **Entries here:** 1 · **Weakness score:** 0.58 (median 1.1x target, 100% of reviews regressed)
+**NeetCode 150:** 1/13 · **Entries here:** 1 · **Weakness score:** 0.59 (median 1.1x target, 100% of reviews regressed)
 
 ## Problems
 

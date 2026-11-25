@@ -4,7 +4,7 @@
 
 > Matrix manipulation, number tricks, overflow care. Signals: *rotate, spiral, power, digits*.
 
-**NeetCode 150:** 1/8 · **Entries here:** 5 · **Weakness score:** 0.19 (untouched 325d)
+**NeetCode 150:** 1/8 · **Entries here:** 5 · **Weakness score:** 0.19 (untouched 326d)
 
 ## Problems
 

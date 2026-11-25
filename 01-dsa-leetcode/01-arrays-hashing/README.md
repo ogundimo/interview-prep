@@ -4,7 +4,7 @@
 
 > Count, group or look up in O(1). Signals: *duplicates, anagram, frequency, seen before*.
 
-**NeetCode 150:** 3/9 · **Entries here:** 8 · **Weakness score:** 0.15
+**NeetCode 150:** 3/9 · **Entries here:** 8 · **Weakness score:** 0.16
 
 ## Problems
 
