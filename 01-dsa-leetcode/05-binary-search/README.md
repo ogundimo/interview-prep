@@ -4,7 +4,7 @@
 
 > Monotonic predicate over an index or answer space. Signals: *sorted, rotated, minimum speed/capacity*.
 
-**NeetCode 150:** 1/7 · **Entries here:** 4 · **Weakness score:** 0.19 (untouched 23d)
+**NeetCode 150:** 1/7 · **Entries here:** 4 · **Weakness score:** 0.19 (untouched 24d)
 
 ## Problems
 

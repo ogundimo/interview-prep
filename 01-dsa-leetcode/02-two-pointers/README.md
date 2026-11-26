@@ -4,7 +4,7 @@
 
 > Sorted input or symmetric checks; move pointers inward/outward. Signals: *pair sum, palindrome, in-place*.
 
-**NeetCode 150:** 4/5 · **Entries here:** 13 · **Weakness score:** 0.30 (median 1.2x target)
+**NeetCode 150:** 4/5 · **Entries here:** 13 · **Weakness score:** 0.31 (median 1.2x target)
 
 ## Problems
 
