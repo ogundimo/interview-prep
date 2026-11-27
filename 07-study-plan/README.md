@@ -3,7 +3,7 @@
 [Home](../README.md) · [DSA](../01-dsa-leetcode/README.md) · [Mock interviews](../06-mock-interviews/README.md)
 
 <!-- prep:status:start -->
-**Today (2026-11-26):** 3 due, 45 overdue. This week: 0 new + 62 review slots (30% new). See [weekly-plan.md](weekly-plan.md).
+**Today (2026-11-27):** 3 due, 48 overdue. This week: 0 new + 65 review slots (30% new). See [weekly-plan.md](weekly-plan.md).
 <!-- prep:status:end -->
 
 | Document | What it is |

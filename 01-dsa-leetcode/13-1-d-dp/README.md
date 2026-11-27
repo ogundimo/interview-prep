@@ -4,7 +4,7 @@
 
 > State depends on a few previous states. Signals: *ways to, min cost, max profit, can you reach*.
 
-**NeetCode 150:** 2/12 · **Entries here:** 5 · **Weakness score:** 0.51 (50% fail/hint rate, median 1.3x target)
+**NeetCode 150:** 2/12 · **Entries here:** 5 · **Weakness score:** 0.52 (50% fail/hint rate, median 1.3x target)
 
 ## Problems
 
